@@ -1,0 +1,888 @@
+fileFormatVersion: 2
+guid: 3484ad9bd41b5954889314f43f40ec10
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6330882353494133661
+    second: gun-layer_0
+  - first:
+      213: -3751860879479114629
+    second: gun-layer_1
+  - first:
+      213: -7410259414581108417
+    second: gun-layer_2
+  - first:
+      213: 5110401974924727219
+    second: gun-layer_3
+  - first:
+      213: -5824091738030521730
+    second: gun-layer_4
+  - first:
+      213: -6830945979340973434
+    second: gun-layer_5
+  - first:
+      213: -5387459641619021468
+    second: gun-layer_6
+  - first:
+      213: -5681379266222205915
+    second: gun-layer_7
+  - first:
+      213: 1483324982512134096
+    second: gun-layer_8
+  - first:
+      213: 2195413694639435005
+    second: gun-layer_9
+  - first:
+      213: 755156601502803188
+    second: gun-layer_10
+  - first:
+      213: -6741785009354890476
+    second: gun-layer_11
+  - first:
+      213: -4114976574548495359
+    second: gun-layer_12
+  - first:
+      213: -6725166239833528577
+    second: gun-layer_13
+  - first:
+      213: -904561960465001716
+    second: gun-layer_14
+  - first:
+      213: -2965339577223001435
+    second: gun-layer_15
+  - first:
+      213: -608979604376815121
+    second: gun-layer_16
+  - first:
+      213: -203230942627201022
+    second: gun-layer_17
+  - first:
+      213: -1396245742874596887
+    second: gun-layer_18
+  - first:
+      213: 8225186759796630287
+    second: gun-layer_19
+  - first:
+      213: 7938567960439317876
+    second: gun-layer_20
+  - first:
+      213: -7361904929422161823
+    second: gun-layer_21
+  - first:
+      213: -6664816518510959245
+    second: gun-layer_22
+  - first:
+      213: 5297407237116626116
+    second: gun-layer_23
+  - first:
+      213: -344204794303640040
+    second: gun-layer_24
+  - first:
+      213: 872037627291681075
+    second: gun-layer_25
+  - first:
+      213: -1059499453165888277
+    second: gun-layer_26
+  - first:
+      213: -4588899949682206042
+    second: gun-layer_27
+  - first:
+      213: 4634895128098095854
+    second: gun-layer_28
+  - first:
+      213: -4640690423204392996
+    second: gun-layer_29
+  - first:
+      213: 3377152409460792260
+    second: gun-layer_30
+  - first:
+      213: 7972073055528199607
+    second: gun-layer_31
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 8
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: gun-layer_0
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 258
+        width: 16
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 364713dba003428a0800000000000000
+      internalID: -6330882353494133661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gun-layer_1
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 258
+        width: 20
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7476f78866beebc0800000000000000
+      internalID: -3751860879479114629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gun-layer_2
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 257
+        width: 93
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f31266cd258792990800000000000000
+      internalID: -7410259414581108417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gun-layer_3
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 258
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b3d7d6258bcbe640800000000000000
+      internalID: 5110401974924727219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gun-layer_4
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 258
+        width: 145
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e72476feb6bac2fa0800000000000000
+      internalID: -5824091738030521730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gun-layer_5
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 258
+        width: 16
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68a9f7dd2da9331a0800000000000000
+      internalID: -6830945979340973434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gun-layer_6
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 258
+        width: 16
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4618b8bfff5eb35b0800000000000000
+      internalID: -5387459641619021468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gun-layer_7
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 218
+        width: 16
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5245e8a98afa721b0800000000000000
+      internalID: -5681379266222205915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gun-layer_8
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 219
+        width: 16
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d7291d6634d59410800000000000000
+      internalID: 1483324982512134096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gun-layer_9
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 218
+        width: 16
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfce20c9f1da77e10800000000000000
+      internalID: 2195413694639435005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gun-layer_10
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 217
+        width: 16
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f4ad569deada7a00800000000000000
+      internalID: 755156601502803188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gun-layer_11
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 179
+        width: 16
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4132955e04e5072a0800000000000000
+      internalID: -6741785009354890476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gun-layer_12
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 177
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 104bbf68b9aa4e6c0800000000000000
+      internalID: -4114976574548495359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gun-layer_13
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 178
+        width: 16
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff6e543bfe86ba2a0800000000000000
+      internalID: -6725166239833528577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gun-layer_14
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 179
+        width: 16
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c03172580b95273f0800000000000000
+      internalID: -904561960465001716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gun-layer_15
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 177
+        width: 16
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aa47359d5ff8d6d0800000000000000
+      internalID: -2965339577223001435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gun-layer_16
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 178
+        width: 16
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe979adb6487c87f0800000000000000
+      internalID: -608979604376815121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gun-layer_17
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 138
+        width: 16
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2008651d88afd2df0800000000000000
+      internalID: -203230942627201022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gun-layer_18
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 138
+        width: 16
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e9eeccf4e98f9ce0800000000000000
+      internalID: -1396245742874596887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gun-layer_19
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 138
+        width: 16
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f03ace477cbb52270800000000000000
+      internalID: 8225186759796630287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gun-layer_20
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 138
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 475684bef757b2e60800000000000000
+      internalID: 7938567960439317876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gun-layer_21
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 138
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1684893c87245d990800000000000000
+      internalID: -7361904929422161823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gun-layer_22
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 138
+        width: 15
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 375aff820b0d183a0800000000000000
+      internalID: -6664816518510959245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gun-layer_23
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 138
+        width: 16
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c48be6b0db248940800000000000000
+      internalID: 5297407237116626116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gun-layer_24
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 98
+        width: 16
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81e8b813093293bf0800000000000000
+      internalID: -344204794303640040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gun-layer_25
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 98
+        width: 16
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 331ce7d0a991a1c00800000000000000
+      internalID: 872037627291681075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gun-layer_26
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 18
+        width: 16
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bec935e5cd6eb41f0800000000000000
+      internalID: -1059499453165888277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gun-layer_27
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 20
+        width: 16
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aa526d0fc3f050c0800000000000000
+      internalID: -4588899949682206042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gun-layer_28
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 19
+        width: 16
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee2c971ff84725040800000000000000
+      internalID: 4634895128098095854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gun-layer_29
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 18
+        width: 16
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdf4854c5a4f89fb0800000000000000
+      internalID: -4640690423204392996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gun-layer_30
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 15
+        width: 16
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cbd346393e0ede20800000000000000
+      internalID: 3377152409460792260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gun-layer_31
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 14
+        width: 16
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b5a836c43e72ae60800000000000000
+      internalID: 7972073055528199607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

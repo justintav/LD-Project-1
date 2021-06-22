@@ -306,7 +306,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 119040}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: d2bb48ea7e7fc4c0fa43dce17235f4f1, type: 3}
   m_Name: 
@@ -436,17 +436,17 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   AbilityStartFeedbacks: {fileID: 0}
   AbilityStopFeedbacks: {fileID: 0}
-  AbilityPermitted: 1
+  AbilityPermitted: 0
   BlockingMovementStates: 
   BlockingConditionStates: 
   MovingPlatformsJumpCollisionOffDuration: 0.05
   ParticleEmitter: {fileID: 19839500}
-  JetpackForce: 2.5
+  JetpackForce: 3
   JetpackUnlimited: 0
-  JetpackFuelDuration: 5
-  JetpackRefuelCooldown: 1
+  JetpackFuelDuration: 2
+  JetpackRefuelCooldown: 0.5
   RefuelSpeed: 0.5
-  MinimumFuelRequirement: 0.2
+  MinimumFuelRequirement: 0.1
   JetpackRefueledSfx: {fileID: 0}
   JetpackFuelDurationLeft: 0
 --- !u!114 &11453748

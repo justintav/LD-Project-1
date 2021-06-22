@@ -14,8 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ItemID: Crystal
   TargetInventoryName: MainInventory
-  Usable: 0
-  Consumable: 1
+  Usable: 1
+  Consumable: 0
   ConsumeQuantity: 1
   Equippable: 0
   Droppable: 1

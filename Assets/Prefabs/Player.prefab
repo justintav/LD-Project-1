@@ -441,11 +441,11 @@ MonoBehaviour:
   BlockingConditionStates: 
   MovingPlatformsJumpCollisionOffDuration: 0.05
   ParticleEmitter: {fileID: 19839500}
-  JetpackForce: 3
+  JetpackForce: 3.5
   JetpackUnlimited: 0
   JetpackFuelDuration: 2
   JetpackRefuelCooldown: 0.5
-  RefuelSpeed: 0.5
+  RefuelSpeed: 1
   MinimumFuelRequirement: 0.1
   JetpackRefueledSfx: {fileID: 0}
   JetpackFuelDurationLeft: 0

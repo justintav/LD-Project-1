@@ -443,10 +443,10 @@ MonoBehaviour:
   ParticleEmitter: {fileID: 19839500}
   JetpackForce: 3.5
   JetpackUnlimited: 0
-  JetpackFuelDuration: 2
+  JetpackFuelDuration: 2.5
   JetpackRefuelCooldown: 0.5
-  RefuelSpeed: 1
-  MinimumFuelRequirement: 0.1
+  RefuelSpeed: 2
+  MinimumFuelRequirement: 0.25
   JetpackRefueledSfx: {fileID: 0}
   JetpackFuelDurationLeft: 0
 --- !u!114 &11453748

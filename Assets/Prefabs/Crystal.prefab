@@ -10,9 +10,9 @@ GameObject:
   m_Component:
   - component: {fileID: 3484362260876412602}
   - component: {fileID: 3484362260876412603}
-  - component: {fileID: 3484362260876412604}
   - component: {fileID: 9191121449429741483}
   - component: {fileID: 3016824660589251002}
+  - component: {fileID: 5954320742006068734}
   m_Layer: 0
   m_Name: Crystal
   m_TagString: Untagged
@@ -86,22 +86,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!114 &3484362260876412604
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3484362260876412605}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 5828fc57db976334898bcf30ae16c877, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  PickFeedbacks: {fileID: 0}
-  DisableObjectOnPick: 1
-  DisableRendererOnPick: 0
-  DisableColliderOnPick: 0
 --- !u!60 &9191121449429741483
 PolygonCollider2D:
   m_ObjectHideFlags: 0
@@ -173,3 +157,15 @@ MonoBehaviour:
   PickableIfInventoryIsFull: 0
   DisableObjectWhenDepleted: 0
   PickFeedbacks: {fileID: 0}
+--- !u!114 &5954320742006068734
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3484362260876412605}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 59175fc6c9db8d547a483267cd1ac8f7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 

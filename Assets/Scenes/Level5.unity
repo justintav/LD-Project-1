@@ -29723,7 +29723,7 @@ MonoBehaviour:
       m_RotationOrder: 4
   FreezeTime: 0
   FreezeCharacter: 1
-  PointOfEntryIndex: 0
+  PointOfEntryIndex: 2
   FacingDirection: 1
 --- !u!61 &931501255
 BoxCollider2D:

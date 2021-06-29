@@ -10,9 +10,9 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 16f005fbcfc61684c82bf819bce9d63b, type: 3}
-  m_Name: ShovelItem
+  m_Name: MainGunItem
   m_EditorClassIdentifier: 
-  ItemID: ShovelItem
+  ItemID: MainGunItem
   TargetInventoryName: MainInventory
   Usable: 0
   Consumable: 1
@@ -22,11 +22,11 @@ MonoBehaviour:
   CanMoveObject: 1
   CanSwapObject: 1
   Quantity: 1
-  ItemName: Shovel
-  ShortDescription: A broken shovel
-  Description: This could still be a valuable tool to use
-  Icon: {fileID: 21300000, guid: 8b603be824e7a4a9f8cad21c15ca93dc, type: 3}
-  Prefab: {fileID: 0}
+  ItemName: Space Rifle
+  ShortDescription: Your trusty automatic rifle
+  Description: 
+  Icon: {fileID: -8612435658162055378, guid: f3f4293ccdddd34468f58745d608416e, type: 3}
+  Prefab: {fileID: 7933963984364056283, guid: 2193930d7156bb0458095df872539ae4, type: 3}
   DropProperties:
     Shape: 0
     NormalToSpawnPlane: {x: 0, y: 1, z: 0}
@@ -69,14 +69,14 @@ MonoBehaviour:
     MinimumScale: {x: 1, y: 1, z: 1}
     MaximumScale: {x: 1, y: 1, z: 1}
   MaximumStack: 1
-  ItemClass: 0
+  ItemClass: 2
   TargetEquipmentInventoryName: WeaponInventory
   EquippedSound: {fileID: 0}
   UsedSound: {fileID: 0}
   MovedSound: {fileID: 0}
   DroppedSound: {fileID: 0}
   UseDefaultSoundsIfNull: 1
-  EquippableWeapon: {fileID: 702939567114624741, guid: d23af8790b1f6bc47907e4bfc0b578bf,
+  EquippableWeapon: {fileID: -1379241559601008641, guid: 7ec5539cb873be1498335dd74e4c304d,
     type: 3}
-  AutoEquipMode: 0
+  AutoEquipMode: 2
   HandleWeaponID: 1
